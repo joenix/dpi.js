@@ -1,0 +1,9 @@
+{
+  "name": "dpi.js",
+  "version": "1.0.3",
+  "description": "a package for get screen dpi",
+  "main": "index.js",
+  "author": "joenix",
+  "license": "MIT",
+  "private": false
+}
